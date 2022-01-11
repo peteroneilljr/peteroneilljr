@@ -9,7 +9,7 @@
 
 - 📝 I write articles on Medium [https://peteroneilljr.medium.com/](https://peteroneilljr.medium.com/)
 
-- 📫 How to reach me **peteroneilljr@gmail.com**
+- 📫 How to reach me **hello@peter.pub**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
