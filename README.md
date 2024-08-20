@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Peter ONeill</h1>
-<h3 align="center">A passionate Community Advocate from California</h3>
+<h3 align="center">A Solutions Architect specilizing in Security Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peteroneilljr&label=Profile%20views&color=0e75b6&style=flat" alt="peteroneilljr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/peteroneilljr" target="blank"><img src="https://img.shields.io/twitter/follow/peteroneilljr?logo=twitter&style=for-the-badge" alt="peteroneilljr" /></a> </p>
 
-- 🔭 I’m currently working on [Open Policy Agent](https://github.com/open-policy-agent/opa)
-
-- 📝 I write articles on Medium [https://peteroneilljr.medium.com/](https://peteroneilljr.medium.com/)
+- 🔭 I’m currently working on [Teleport](https://goteleport.com/), an Identity and Access Management platform. 
 
 - 📫 How to reach me **hello@peter.pub**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
